@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MvvmPattern</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="sum">Sum=</string>
+    <string name="summ">Sum=</string>
+    <string name="sub">Sub=</string>
+    <string name="calculate">Calculate</string>
+</resources>
